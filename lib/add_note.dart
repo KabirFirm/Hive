@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-import '../controller/note_controller.dart';
-import 'note.dart';
+import 'controller/note_controller.dart';
+import 'model/note.dart';
 
 class AddNote extends StatelessWidget {
   AddNote({Key? key}) : super(key: key);

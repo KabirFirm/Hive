@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
-import '../controller/note_controller.dart';
+import 'controller/note_controller.dart';
 import 'add_note.dart';
-import 'note.dart';
+import 'model/note.dart';
 
 class NoteList extends StatefulWidget {
   const NoteList({Key? key}) : super(key: key);
